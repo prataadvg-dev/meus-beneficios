@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "meus-beneficios",
+    "slug": "meus-beneficios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "meus-beneficios"
+}
