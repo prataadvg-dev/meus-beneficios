@@ -16,7 +16,7 @@ export default function ListGridHome({ navigation }) {
     let text = '🙋🏻‍♂️Dúvidas sobre INSS? Como funciona, quais regras e principais dúvidas sobre o assunto!\n\n📱Fale conosco e temos a solução rápida e prática 😁\n\n⬇️ Faça o Download App '
 
     if (Platform.OS === 'android')
-      text = text.concat('https://play.google.com/store/apps/details?id=meu.beneficio.com\n\n')
+      text = text.concat('https://play.google.com/store/apps/details?id=com.meus.beneficios\n\n')
     else
       text = text.concat('\n\n')
 
